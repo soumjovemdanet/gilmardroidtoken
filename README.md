@@ -18,3 +18,6 @@ YOUTUBE: Gilmar droid
 telegram:
 
 instagram: https://www.instagram.com/gilmarfilho95/
+
+
+  // (c) by Sou um jovem da net / 📜direitos reservado 2022. The MIT Licence. 
